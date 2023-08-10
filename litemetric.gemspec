@@ -7,7 +7,7 @@ Gem::Specification.new do |spec|
   spec.version = Litemetric::VERSION
   spec.authors = ["Mohamed Hassan", "Stephen Margheim"]
   spec.email = ["oldmoe@gmail.com", "stephen.margheim@gmail.com"]
-  
+
   spec.summary = "A SQLite based, lightning fast, super efficient and dead simple to setup and use metrics platform for Ruby and Rails applications!"
   spec.homepage = "https://github.com/litestack-ruby/litemetric"
   spec.license = "MIT"
